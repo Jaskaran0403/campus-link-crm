@@ -1,4 +1,4 @@
-# Campus Connect – Student Query & Academic Tracking
+# Campus Link – Student Query & Academic Tracking
 
 ## Industry  
 **Education**
@@ -25,7 +25,7 @@ Additionally, student academic records are stored in scattered systems, making i
 
 ## Solution Overview  
 
-### Campus Connect  
+### Campus Link  
 This project implements a Salesforce CRM-based system for the university that will:  
 - **Centralize Student Queries:** Provide a unified platform where all academic and administrative queries can be logged, tracked, and managed.  
 - **Automate Query Assignment:** Automatically route student queries to the appropriate department or personnel, ensuring faster and more accurate responses.  
@@ -85,7 +85,7 @@ This project implements a Salesforce CRM-based system for the university that wi
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/<your-username>/Campus-Connect.git
+   git clone https://github.com/<your-username>/Campus-Link.git
    ```
 2. **Review setup instructions in the docs/ folder for Salesforce environment configuration.
 3. **Deploy metadata to your Salesforce Developer Org or Sandbox.
